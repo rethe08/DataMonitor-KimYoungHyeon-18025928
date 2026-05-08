@@ -1,0 +1,37 @@
+{
+  "S-001": {
+    "id": "S-001",
+    "name": "실리콘 웨이퍼-8인치",
+    "avg_production_time": 0.4,
+    "yield_rate": 0.76,
+    "stock": 223
+  },
+  "S-002": {
+    "id": "S-002",
+    "name": "GaN 에피택셜-4인치",
+    "avg_production_time": 1.6,
+    "yield_rate": 0.97,
+    "stock": 215
+  },
+  "S-003": {
+    "id": "S-003",
+    "name": "SiC 파워기판-6인치",
+    "avg_production_time": 1.2,
+    "yield_rate": 0.96,
+    "stock": 239
+  },
+  "S-004": {
+    "id": "S-004",
+    "name": "포토레지스트-PR7",
+    "avg_production_time": 0.6,
+    "yield_rate": 0.76,
+    "stock": 226
+  },
+  "S-005": {
+    "id": "S-005",
+    "name": "산화막 웨이퍼-SiO2",
+    "avg_production_time": 2.0,
+    "yield_rate": 0.91,
+    "stock": 95
+  }
+}
